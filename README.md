@@ -5,3 +5,7 @@ This example C# code uses LINQ https://learn.microsoft.com/en-us/dotnet/csharp/t
 In input CSV that the code reads is included : FA.csv
 
 The output files are FA.xml and FA.rapidstart - to open the rapidstart file just use 7zip or WinRAR
+
+# Why?
+
+Excel has a limit of just over 1 million rows, rapidstart files have no such limit and are much smaller!
