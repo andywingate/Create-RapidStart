@@ -12,4 +12,8 @@ Excel has a limit of just over 1 million rows, RapidStart files have no such lim
 
 Importing data via a RapidStart is faster than Excel. In this example there are just under 25k rows. Import from Excel is about 480 seconds while RapidStart is 360 seconds. So a marginal improvement.
 
-The real difference is in exporting data which is orders of magnitude faster with exporting to a package vs excel.
+The real difference is in exporting data which is orders of magnitude faster with exporting to a package vs excel. Checkout https://github.com/andywingate/Plunder-RapidStart
+
+# About me
+
+Check out my blog at https://blog.wingateuk.com
